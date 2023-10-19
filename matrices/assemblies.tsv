@@ -1,1 +1,8 @@
 
+Assembly Accession	Assembly Name	Organism Name	Organism Taxonomic ID	https://www.ebi.ac.uk/ena/browser/api/fasta/Assembly Accession?download=true&gzip=true
+GCA_927797965.1	BraLan3	Branchiostoma lanceolatum	7740	https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_927797965.1?download=true&gzip=true
+GCA_028022735.1	bGypBar2.pri	Gypaetus barbatus	33610	https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_028022735.1?download=true&gzip=true
+GCA_028017155.1	bGypBar2.alt	Gypaetus barbatus	33610	https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_028017155.1?download=true&gzip=true
+GCA_947686815.1	rPodLil1.2	Podarcis lilfordi	74358	https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_947686815.1?download=true&gzip=true
+GCA_023333565.1	ASM2333356v1	Puffinus mauretanicus	48681	https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_023333565.1?download=true&gzip=true
+GCA_962446985.1	fXyrNov1.1	Xyrichtys novacula	13765	https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_962446985.1?download=true&gzip=true
